@@ -4,7 +4,7 @@ How to use this example:
 2. `git checkout git@github.com:curtisbridges/dotenv-example.git`
 3. `cd dotenv-example`
 4. `npm install`
-5. `echo "ACCESS_TOKEN_SECRET=file-secret!!!111" >> .env`
+5. `echo "ACCESS_TOKEN_SECRET=file-secret111123123" >> .env`
 6. `npm run file`
 7. `npm run vars`
 8. `ACCESS_TOKEN_SECRET=foo npm run file` 
