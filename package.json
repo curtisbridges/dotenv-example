@@ -1,0 +1,16 @@
+{
+  "name": "dotenv-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "file": "node index.js",
+    "vars": "ACCESS_TOKEN_SECRET=environment-variable node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
